@@ -1,0 +1,76 @@
+h1 {
+    color: #0a00ff;
+}
+
+
+
+/*******left sidebar******/
+#left-sidebar {
+    background-color: #324376;
+    height: 100vh
+}
+
+#left-sidebar h1 {
+    font-size: .5cm;
+    margin-left: 60
+}
+
+#left-sidebar h2 {
+    font-size: .4cm;
+    color: #F06449;
+    margin-left: 105
+}
+
+.image {
+    border-radius: 50%;
+    margin-left: 60
+}
+
+#left-sidebar a {
+    color: cornflowerblue;
+}
+
+#left-sidebar ul {
+    color: cornflowerblue;
+}
+
+/*******right sidebar*******/
+#right-sidebar {
+    padding-left: 400;
+    background-color: #84BCDA;
+    height: 100vh
+}
+
+.address {
+    font-size: 1em;
+    color: cornflowerblue
+}
+
+#right-sidebar h2 {
+    color: #ECC30B;
+}
+
+.emailad {
+    font-size: 1em;
+    color: cornflowerblue
+}
+
+.college {
+    color: #087830;
+}
+
+.school {
+    color: #0377ff;
+}
+
+.col-2 {
+    color: #F06449;
+}
+
+.backgroundbody {
+    background-color: #accee3;
+}
+
+#references {
+    margin-top: -16
+}
