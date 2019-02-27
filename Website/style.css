@@ -1,0 +1,45 @@
+#doc h1{
+    color: aquamarine;
+}
+#doc{
+    background-color:cornflowerblue;
+    height: 8vh;
+}
+
+img {
+    border-radius: 50%;
+}
+#mom{
+    background:url(Flower%20Background.jpg);
+    height:100vh;
+}
+.container{
+    background-color:coral
+
+}
+body {
+    background-color:bisque
+}
+#dad{
+    background:url(Scallop%20Background.jpg);
+    height:100vh;
+}
+#mtext{
+    background-color: burlywood;
+    opacity: 0.8;
+    
+}
+#mtext h1{
+    color:crimson;
+    
+}
+
+#dtext{
+    background-color:aquamarine;
+    opacity: 0.8;
+    
+}
+#dtext h1{
+    color:darkgoldenrod;
+    
+}
